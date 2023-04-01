@@ -9,5 +9,9 @@ h3,h2,h1{
     font-family: 'Times New Roman', Times, serif;
 }
 hr{
-    
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 5%; 
 }
