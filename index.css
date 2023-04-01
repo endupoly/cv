@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(177, 244, 138);
+}
+td{
+    color: rgb(4, 49, 212);
+}
+h3,h2,h1{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    
+}
